@@ -6,7 +6,7 @@
             },
             "source": ["src"],
             "type": "assets"
-        }
+        }https://github.com/Selisana/src/blob/main/%7B%20%20%20%20%20%22canisters%22%3A%20%7B%20%20%20%20%20%20%20%20%20%22icp_simple_site%22%3A%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%22frontend%22%3A%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22entrypoint%22%3A%20%22src/dfx.json
     },
     "dfx": "0.17.0",
     "version": 1,
